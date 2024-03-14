@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Task1Week3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA592ED3-7A18-4688-B65A-D6A17F267B7C}|Task1Week3.csproj|c:\\users\\hp\\source\\repos\\task1week3\\gpacalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA592ED3-7A18-4688-B65A-D6A17F267B7C}|Task1Week3.csproj|solutionrelative:gpacalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA592ED3-7A18-4688-B65A-D6A17F267B7C}|Task1Week3.csproj|c:\\users\\hp\\source\\repos\\task1week3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA592ED3-7A18-4688-B65A-D6A17F267B7C}|Task1Week3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GPACalc.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Task1Week3\\GPACalc.cs",
+              "RelativeDocumentMoniker": "GPACalc.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Task1Week3\\GPACalc.cs",
+              "RelativeToolTip": "GPACalc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:32:10.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Task1Week3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Task1Week3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:29:32.69Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
